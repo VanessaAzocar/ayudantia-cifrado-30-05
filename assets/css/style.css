@@ -11,7 +11,7 @@ body{
 .botones{
   text-align: center;
 }
-.botones button {
+.botones {
   padding: 2%;
   border-radius: 7px;
   font-size: 20px;
